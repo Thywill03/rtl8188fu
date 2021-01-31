@@ -7,7 +7,7 @@ RTL8188FU driver for Linux kernel 4.15.x ~ 5.11.x (Linux Mint, Ubuntu or Debian 
 sudo apt-get install build-essential git dkms linux-headers-$(uname -r)
 git clone https://github.com/kelebek333/rtl8188fu
 sudo mkdir /usr/src/.-rtl8188fu
-sudomkdir /usr/src/rtl8188fu-1.0
+sudo mkdir /usr/src/rtl8188fu-1.0
 sudo cp dkms.conf /usr/src/.-rtl8188fu/dkms.conf
 sudo dkms add ./rtl8188fu
 sudo dkms build rtl8188fu/1.0
