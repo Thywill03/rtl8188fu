@@ -22,7 +22,7 @@ sudo touch /etc/modprobe.d/rtl8188fu.conf
 echo "options rtl8188fu rtw_power_mgnt=0 rtw_enusbss=0" | sudo tee /etc/modprobe.d/rtl8188fu.conf
 ```
 
-Run following commands for disabling MAC Address Spoofing (Note: This is ntot needed on Ubuntu based distributions. MAC Address Spoofing is already disable on Ubuntu base).
+Run following commands for disabling MAC Address Spoofing (Note: This is not needed on Ubuntu based distributions. MAC Address Spoofing is already disable on Ubuntu base).
 
 ```bash
 sudo mkdir -p /etc/NetworkManager/conf.d/
