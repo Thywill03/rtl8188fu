@@ -1,4 +1,4 @@
-RTL8188FU driver for Linux kernel 4.15.x ~ 5.15.x (Linux Mint, Ubuntu or Debian Derivatives)
+RTL8188FU driver for Linux kernel 4.15.x ~ 5.15.x
 
 ------------------
 
@@ -71,3 +71,9 @@ You can purge packages with following commands
 ## How to install (for arm devices)
 
 https://github.com/kelebek333/rtl8188fu/tree/arm#how-to-install-for-arm-devices
+
+------------------
+
+## How to install RPM (Fedora, openEuler or Red Hat Enterprise Linux Derivatives)
+
+https://build.opensuse.org/package/show/home:Fhiss:rtl8188fu/rtl8188fu
