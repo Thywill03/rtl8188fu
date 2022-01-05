@@ -1,3 +1,5 @@
+ToDo: Rewrite this file for Allwinner installation + add diagrams/images.
+
 RTL8188FU driver for Linux kernel 4.15.x ~ 5.15.x (Linux Mint, Ubuntu or Debian Derivatives)
 
 ------------------
