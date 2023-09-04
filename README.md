@@ -55,7 +55,7 @@ If you are using kernel 6.2 and up, you must create a configuration file with fo
 
 For initramfs
 
-`sudo update initramfs -u`
+`sudo update-initramfs -u`
 
 For dracut
 
