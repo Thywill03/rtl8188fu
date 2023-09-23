@@ -61,12 +61,14 @@ For dracut
 
 `sudo dracut -q --force`
 
+
 ------------------
 
 ## Get started !
 
 * Restart your computer...
 * Connect to your preferred wireless network using your network settings.
+
 
 ------------------
 
